@@ -5,7 +5,7 @@ Use this library to access the gateway object from within Adonis
 
 ## Install
 ```
-npm install --save adonis-braitnree
+npm install --save adonis-braintree
 ```
 
 ## Configure
