@@ -23,7 +23,7 @@ class BraintreeGatewayProvider extends ServiceProvider {
           gatewayEnvironment = braintree.Environment.Sandbox
       }
 
-      const gateway = new braintree.connect({
+      const gateway = braintree.connect({
         environment: gatewayEnvironment,
         merchantId: Config.get('braintree.merchantId'),
         publicKey: Config.get('braintree.publicKey'),
