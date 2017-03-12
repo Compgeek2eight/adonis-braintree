@@ -1,6 +1,6 @@
 {
   "name": "adonis-braintree",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Braintree provider for the Adonis framework.",
   "main": "index.js",
   "scripts": {

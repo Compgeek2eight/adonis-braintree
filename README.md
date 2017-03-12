@@ -1,5 +1,3 @@
-Still in development DOES NOT WORK YET
-
 # Adonis Braintree Provider
 A [Braintree](https://github.com/braintree/braintree_node) provider for the adonis framework.
 
