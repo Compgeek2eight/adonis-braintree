@@ -16,5 +16,5 @@
   },
   "devDependencies": {
     "adonis-fold": "^3.0.1"
-  },
+  }
 }
