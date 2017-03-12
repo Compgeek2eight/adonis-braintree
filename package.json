@@ -1,0 +1,14 @@
+{
+  "name": "adonis-braintree",
+  "version": "1.0.0",
+  "description": "Braintree provider for the Adonis framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Compgeek28 <compgeek28@dr.com>",
+  "license": "ISC",
+  "dependencies": {
+    "braintree": "^2.0.2"
+  }
+}
