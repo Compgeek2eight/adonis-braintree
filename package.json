@@ -1,6 +1,6 @@
 {
   "name": "adonis-braintree",
-  "version": "1.0.1.1",
+  "version": "1.0.3",
   "description": "Braintree provider for the Adonis framework.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "braintree": "^2.0.2"
-  }
+  },
+  "peerDependencies": {
+    "adonis-fold": "^3.0.1"
+  },
+  "devDependencies": {
+    "adonis-fold": "^3.0.1"
+  },
 }
