@@ -19,7 +19,7 @@ class BraintreeGatewayProvider extends ServiceProvider {
         case 'development':
           gatewayEnvironment = braintree.Environment.Development
           break
-        case default:
+        default:
           gatewayEnvironment = braintree.Environment.Sandbox
       }
 
